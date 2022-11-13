@@ -1,1 +1,2 @@
 # Vehicle-Booking
+The Vehicle Booking and Checking Tool has been design to meet the needs of booking a vehicle pool for an event. In addition to booking the vehicle it can also be checked out and in. The design allows for check out or in to be done via a hand held device capable of running Excel including VBA off line and then those details be uploaded to the master data. Note check out or in data could be captured by a pdf rendition of the form but would then have to be manually rekeyed to the master.
